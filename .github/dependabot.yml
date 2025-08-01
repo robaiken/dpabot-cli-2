@@ -3,9 +3,7 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
-      day: "sunday"
-      time: "16:00"
+      interval: "daily"
     groups:
       all:
         patterns:
